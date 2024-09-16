@@ -1,0 +1,25 @@
+html {
+  direction: rtl;
+}
+
+header {
+  margin-top: 0px;
+}
+
+a {
+}
+
+.btn-tel {
+  padding: 15px;
+  font-weight: 600;
+  background-color: var(--bs-blue);
+  color: #fff;
+  border-radius: 8px;
+  margin-top: 15px!important;
+}
+
+.btn-tel:hover {
+  background-color: var(--bs-indigo);
+  color: #ffffff;
+}
+
